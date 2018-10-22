@@ -33,5 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- concierge-service.md
 - index.md
+- concierge-service.md
